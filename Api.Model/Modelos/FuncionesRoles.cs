@@ -26,10 +26,10 @@ namespace Api.Model.Modelos
         [Column(TypeName = "datetime")]
         public DateTime? FechaModificacion { get; set; }
 
-        [ForeignKey("FuncionID")]
+        //[ForeignKey("FuncionID")]
         public virtual Funciones Funciones { get; set; }
 
-        [ForeignKey("RolID")]
+        //[ForeignKey("RolID")]
         public virtual Roles Roles { get; set; }
     }
 }

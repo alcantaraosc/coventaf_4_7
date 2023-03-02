@@ -18,3 +18,13 @@ C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Helpers\obj\D
 C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Helpers\obj\Debug\Api.Helpers.csproj.CopyComplete
 C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Helpers\obj\Debug\Api.Helpers.dll
 C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Helpers\obj\Debug\Api.Helpers.pdb
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\bin\Debug\Api.Helpers.dll
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\bin\Debug\Api.Helpers.pdb
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\bin\Debug\Api.Model.dll
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\bin\Debug\Api.Model.pdb
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\bin\Debug\Api.Model.dll.config
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\obj\Debug\Api.Helpers.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\obj\Debug\Api.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\obj\Debug\Api.Helpers.csproj.CopyComplete
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\obj\Debug\Api.Helpers.dll
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Helpers\obj\Debug\Api.Helpers.pdb

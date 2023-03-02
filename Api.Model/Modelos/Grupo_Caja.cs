@@ -29,7 +29,6 @@ namespace Api.Model.Modelos
         [StringLength(30)]
         public string UpdatedBy { get; set; }
         [Required]        
-        public DateTime CreateDate { get; set; }
-        
+        public DateTime CreateDate { get; set; }        
     }
 }

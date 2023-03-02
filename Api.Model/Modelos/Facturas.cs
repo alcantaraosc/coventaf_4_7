@@ -448,10 +448,10 @@ namespace Api.Model.Modelos
         [Required]
         public Guid RowPointer { get; set; }
         [Required]
-        [Column(TypeName = "varchar(30)")]
+        [StringLength(30)]        
         public string CreatedBy { get; set; }
-        [Required]
-        [Column(TypeName = "varchar(30)")]
+        [Required]        
+        [StringLength(30)]
         public string UpdatedBy { get; set; }
         [Required]
         public DateTime CreateDate { get; set; }

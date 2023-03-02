@@ -8,3 +8,9 @@ C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Setting\bin\D
 C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Setting\obj\Debug\Api.Setting.csproj.CoreCompileInputs.cache
 C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Setting\obj\Debug\Api.Setting.dll
 C:\Users\alcantara\Desktop\COVENTAF-DESK-.NET-4.7\Api.COVENTAF\Api.Setting\obj\Debug\Api.Setting.pdb
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Setting\bin\Debug\Api.Setting.dll
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Setting\bin\Debug\Api.Setting.pdb
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Setting\obj\Debug\Api.Setting.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Setting\obj\Debug\Api.Setting.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Setting\obj\Debug\Api.Setting.dll
+C:\Users\Usuario\Desktop\coventaf_4.7\coventaf_4_7\Api.Setting\obj\Debug\Api.Setting.pdb

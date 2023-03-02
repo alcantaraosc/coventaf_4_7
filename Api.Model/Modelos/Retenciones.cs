@@ -19,7 +19,7 @@ namespace Api.Model.Modelos
         public string Descripcion { get; set; }
 
         [Required]
-        [Column(TypeName = "Decimal(28, 8)")]
+        [Column(TypeName = "Decimal")]
         public decimal Porcentaje { get; set; }
         [Required]        
         [StringLength(1)]

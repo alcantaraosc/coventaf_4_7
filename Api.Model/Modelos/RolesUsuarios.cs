@@ -22,9 +22,9 @@ namespace Api.Model.Modelos
         [Column(TypeName = "datetime")]
         public DateTime? FechaModificacion { get; set; }
 
-        [ForeignKey("RolID")]
+        //[ForeignKey("RolID")]
         public virtual Roles Roles { get; set; }
-        [ForeignKey("UsuarioID")]
+        //[ForeignKey("UsuarioID")]
         public virtual Usuarios Usuarios { get; set; }
     }
 }
